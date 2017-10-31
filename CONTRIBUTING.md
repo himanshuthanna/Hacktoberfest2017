@@ -193,3 +193,6 @@
 #### Name: [Amrit Gautam](https://github.com/amritg)
 - Bio: Software Engineering Student. Web Developer and IoT enthusiastic.
 - Programming Language: Javascript, Php, Ruby, Java
+#### Name:[Himanshu Thanna](https://github.com/himanshuthanna)
+- Bio: Persuing B.tech in Cloud Computing and Virtualization.
+- Programming Language: java,c,python
